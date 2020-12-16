@@ -1,16 +1,1 @@
-[
-    {
-        "name": "Simona",
-        "surname": "Cossai",
-        "email": "cossaisimona@gmail.com",
-        "timeOfArrival": "18:30",
-        "_id": "36kvt9u0kirhlkcm"
-    },
-    {
-        "name": "John",
-        "surname": "Smith",
-        "email": "johnsmith@gmail.com",
-        "timeOfArrival": "20:30",
-        "_id": "36kvt6jskirhrqac"
-    }
-]
+[{"name":"Simona","surname":"Cossai","email":"cossaisimona@gmail.com","timeOfArrival":"18:30","_id":"36kvt9u0kirhlkcm"},{"name":"John","surname":"Smith","email":"johnsmith@gmail.com","timeOfArrival":"20:30","_id":"36kvt6jskirhrqac"},{"name":"Simona","surname":"Cossai","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvtha8kirizpm1"},{"name":"Simona","surname":"Blabla","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvtc6kkirj2l70"},{"name":"Simona","surname":"Blabla","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvtbd0kirja0fv"},{"name":"Simona","surname":"Blabla","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvtdqskirjhbs9"},{"name":"Simona","surname":"Blabla","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvtfckkirji895"},{"name":"Simona","surname":"Blabla","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvt8ackirjiybs"},{"name":"Simona","surname":"Blabla","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvtcuskirjjgvt"},{"name":"Simona","surname":"Blabla","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvtgzwkirjl06e"},{"name":"Simona","surname":"Blabla","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvthdckirjlrjv"},{"name":"Simona","surname":"Blabla","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvtcnwkirjnl1g"},{"name":"Simona","surname":"Blabla","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvtbqgkirjo9en"},{"name":"Simona","surname":"Blabla","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvt6wgkirjpdxc"},{"name":"Simona","surname":"Blabla","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvtdkgkirjq40r"},{"name":"Simona","surname":"Blabla","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvt790kirjtvqs"},{"name":"Simona","surname":"Blabla","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvtdqokirjvl2u"},{"name":"Simona","surname":"Blablaaaa","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvt7gckirjxo6d"},{"name":"Simona","surname":"Blablaaaa","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvtf7kkirjyv4r"},{"name":"Simona","surname":"Blablaaaa","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvt3dskirk0k44"},{"name":"Simona","surname":"Blablaaaa","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvtx0kirk1ca7"},{"name":"Simona","surname":"Blablaaaa","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvt2c0kirk2fp4"},{"name":"Simona","surname":"Blablaaaa","email":"simonacossailearning@gmail.com","timeOfArrival":"19:30","_id":"36kvtd64kirk3qns"},{"name":"Simona","surname":"Blablaaaa","email":"simonacossaipersonal@gmail.com","timeOfArrival":"19:30","_id":"36kvtcu0kirk3xfg"},{"name":"Simona","surname":"Blablaaaa","email":"simonacossaipersonal@gmail.com","timeOfArrival":"19:30","_id":"36kvt2kskirk78q4"}]

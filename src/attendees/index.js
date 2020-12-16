@@ -3,7 +3,7 @@ const { check, validationResult } = require("express-validator");
 const { readDB, writeDB } = require("../lib/utilities");
 const { join } = require("path");
 const uniqid = require("uniqid");
-
+const sgMail = require("@sendgrid/mail")
 const attendeesRouter = express.Router();
 const participantPath = join(__dirname, "./attendees.json");
 
@@ -54,7 +54,10 @@ attendeesRouter.post(
           ...req.body,
           _id: uniqid(),
         };
+
         console.log(newAttendee);
+        const email = newAttendee.email
+        await sendEmail(email)
         attendeesArray.push(newAttendee);
         writeDB(participantPath, attendeesArray);
         res.status(201).send(newAttendee)
@@ -66,4 +69,26 @@ attendeesRouter.post(
   }
 );
 
+const sendEmail = async(email) => {
+    try {
+        sgMail.setApiKey(process.env.SENDGRID_API_KEY)
+        const msg = {
+          to: `${email}`,
+          from: "cossaisimona@gmail.com",
+          subject: "Sending with Twilio SendGrid is Fun",
+          text: `Hi, see you at diego's birthday then! :D`,
+          html: "<strong>Hi, see you at diego's birthday then!</strong>",
+        }
+        await sgMail.send(msg)
+      } catch (error) {
+        next(error)
+      }
+}
+
+
 module.exports = attendeesRouter;
+
+
+
+
+
