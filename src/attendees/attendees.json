@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Simona",
+        "surname": "Cossai",
+        "email": "cossaisimona@gmail.com",
+        "timeOfArrival": "18:30",
+        "_id": "36kvt9u0kirhlkcm"
+    },
+    {
+        "name": "John",
+        "surname": "Smith",
+        "email": "johnsmith@gmail.com",
+        "timeOfArrival": "20:30",
+        "_id": "36kvt6jskirhrqac"
+    }
+]
